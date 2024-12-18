@@ -20,6 +20,7 @@
 - **Клонируйте репозиторий** - git clone https://github.com/Mersettas/final_project.git
 - **Установите зависимости** - pip install -r requirements.txt
 - **Распокововать china_doc.zip** - unzip china_doc.zip -d ./china_doc
+- **Добавить токен в переменную окружения** - export API_KEY="YOUR_TOKEN"
 - **Запустите все ячейки в ноутбуке RAG system.ipynb**
 
 ## Используемые технологии
