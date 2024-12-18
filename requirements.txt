@@ -1,0 +1,12 @@
+python-dotenv
+gradio
+langchain
+faiss-cpu
+openai==1.55.3
+langchain-community
+pandas
+PyPDF2
+httpx==0.27.2
+langchain_text_splitters
+tiktoken
+langchain.embeddings
